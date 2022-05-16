@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name" translatable="false">APPLOCATION805804</string>
+    <string name="Findme" translatable="false">Welcome to Find Me</string>
+    <string name="findloc" translatable="false">Find me</string>
+    <string name="denied" translatable="false">Permission Denied, please open settings and enable location services for
+    APPLOCATION805804 to allow access to the application</string>
+    <string name="granted" translatable="false">Permission Granted</string>
+    <string name="turnOn" translatable="false">Turn on Location</string>
+    <string name="nul" translatable="false">Null Received</string>
+    <string name="getSuccess" translatable="false">Get Success</string>
+    <string name="latHere" translatable="false">Latitude Displays Here</string>
+    <string name="longHere" translatable="false">Longitude Displays Here</string>
+    <string name="currLoc" translatable="false">Your current address is:</string>
+    <string name="unableCountry" translatable="false">Unable to get Country name</string>
+    <string name="unableCity" translatable="false">Unable to get City name</string>
+    <string name="city" translatable="false">Your City is:</string>
+    <string name="country" translatable="false">Your Country is:</string>
+    <string name="Country" translatable="false">Country?</string>
+    <string name="City" translatable="false">City?</string>
+    <string name="postal">Postal Address?</string>
+    <string name="shareC">Whatsapp to Contact</string>
+    <string name ="shareA">Share on apps</string>
+    <string name="Location">Where am I?</string>
+    <string name="pic">Phone image</string>
+    <string name="inviteFriends">Invite your friends</string>
+    <string name="ask_permission">ask permissions</string>
+    <string name="allow_permission">allow permissions</string>
+    <string name="deny_permission">deny permissions</string>
+    <string name="sharewF">Share your location with friends!</string>
+    <string name="returnTo">Back</string>
+    <string name="share">Share Location</string>
+    <string name="ylocation">Your Location</string>
+</resources>
